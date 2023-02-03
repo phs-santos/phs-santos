@@ -28,7 +28,7 @@
 
 ### ✔  **Domínio :** Desenvolvedor Junior 💻
 ### ✔  **Habilidades :** Javascript
-### ✔  **Hobbies :**  Ler 📕, Natureza
+### ✔  **Hobbies :**  Ler 📕, Natureza evergreen_tree
 <hr>
 
 ### Total de visitas no Perfil :detective: 
