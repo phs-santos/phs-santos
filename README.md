@@ -45,4 +45,4 @@
 ```
 Vida longa e próspera
 ```
-![image](https://github.com/gustavoSoriano/gustavosoriano/blob/master/spock.gif)
+![image](https://github.com/henrique-souza-paulo/henrique-souza-paulo/blob/main/spock.gif)
