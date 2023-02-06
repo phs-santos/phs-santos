@@ -3,17 +3,15 @@
 
 <hr>
 
-
 <h3>Como me encontrar:</h3>
 
 <a href="https://www.linkedin.com/in/paulo-souza-82a123248"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:paulo18santos2000@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
 
 <hr>
-
 
 <h3>De uma olhada em meu projeto!</h3>
+
 <h2>Projeto de estudo: https://react-list-tau.vercel.app/</h2>
 
 <hr>
