@@ -10,9 +10,9 @@
 
 <hr>
 
-<h3>De uma olhada em meu projeto!</h3>
+<h2>De uma olhada em meu projeto!</h3>
 
-<h2>Projeto de estudo: https://react-list-tau.vercel.app/</h2>
+<span>Projeto de estudo: https://react-list-tau.vercel.app/</span>
 
 <hr>
 
