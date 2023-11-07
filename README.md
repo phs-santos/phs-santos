@@ -10,9 +10,9 @@
 
 <hr>
 
-<h2>De uma olhada em meu projeto!</h3>
+<h2>De uma olhada em minha landing page!</h3>
 
-<span>Projeto de estudo: https://react-list-tau.vercel.app/</span>
+<span>Projeto de estudo: <code>https://www.paulohsouza.com.br/</code></span>
 
 <hr>
 
