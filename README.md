@@ -10,12 +10,6 @@
 
 <hr>
 
-<h2>De uma olhada em minha landing page!</h3>
-
-<span>Projeto de estudo: <code>https://www.paulohsouza.com.br/</code></span>
-
-<hr>
-
 <h2>Tecnologias e Ferramentas</h2>
 
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
