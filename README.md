@@ -1,4 +1,4 @@
-<h1>Bem vindo, Sou P. Henrique</h1>
+<h1>Bem vindo, Paulo Souza aqui!</h1>
 <h2>💻👨‍💻 Desenvolvedor Junior</h2>
 
 <hr>
@@ -7,6 +7,16 @@
 
 <a href="https://www.linkedin.com/in/paulo-souza-82a123248"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:paulo18santos2000@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<hr>
+
+<h3>Top Linguagens</h3>
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=phs-santos&locale=pt-br&theme=dracula)
+
+<h3>Estatísticas</h3>
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=phs-santos&show_icons=true&theme=dracula&locale=pt-br&layout=compact)
 
 <hr>
 
